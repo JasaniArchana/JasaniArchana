@@ -2,6 +2,7 @@
 <div align="center">
   </div>  
 <img align="right" alt="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
+</img>
 <!--
 **JasaniArchana/JasaniArchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
