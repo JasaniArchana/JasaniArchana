@@ -1,4 +1,4 @@
-### Hi there 👋I'm Archana Jasani
+### Hi 👋I'm Archana Jasani
 
 <!--
 **JasaniArchana/JasaniArchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
