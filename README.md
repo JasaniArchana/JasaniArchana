@@ -1,7 +1,8 @@
 ### Hey 👋I'm Archana Jasani
 <div align="center">
   </div>  
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/110847601/187017014-3880c06b-ad3e-4f86-a6fc-e4a34dce6267.png)
+">
 
 <!--
 **JasaniArchana/JasaniArchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
