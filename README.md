@@ -1,19 +1,14 @@
-### Hey 👋I'm Archana Jasani
-<div align="center">
-  </div>  
+<h1 align="center">Hey 👋, I'm Archana Jasani</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasaniarchana&label=Profile%20views&color=0e75b6&style=flat" alt="jasaniarchana" /> </p>
+
+- 🔭 I’m currently studing on **Master Of Computer Application**
+
+- ⚡ Fun fact **😊**
 
 
-<!--
-**JasaniArchana/JasaniArchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently Studing on Master Of Computer Application.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 😄
--->
