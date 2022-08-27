@@ -2,7 +2,7 @@
 <div align="center">
   </div>  
 <img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/110847601/187016880-9bfca415-8568-44fa-8198-b40dfe80718f.png)">
-</img>
+
 <!--
 **JasaniArchana/JasaniArchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
